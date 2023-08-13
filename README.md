@@ -8,6 +8,11 @@
 
 📰 [*Check out this paper*](https://www.sciencedirect.com/science/article/pii/S0034425722003054)
 
+![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)
+<div align="center">
+<img src="![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)" width="50px" />
+</div>
+
 <summary> Google Earth Engine: A Global Analysis and Future Trends</summary>
 Are you interested in understanding the primary applications of the Google Earth Engine? 
 Would you like to know which articles are most frequently cited? 
