@@ -1,14 +1,21 @@
 # Tips
-Unveil the secrets of Earth's vegetation: explore Vegetation Indices through Remote Sensing! 🌍🛰️
 
-Here are 5 transformative resources that will take you understand and master the art of studying vegetation indices through remote sensing:
+<details>
+  <summary>Recommended readings</summary>
+<summary>Fifty years of Landsat science and impacts</summary>
 
-1️⃣ EVI from First Principles  | https://www.linkedin.com/feed/update/urn:li:activity:7082367195699154944?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7082367195699154944%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+  Uncover the incredible story of Landsat's 50-year journey! Discover how this pioneering remote sensing technology has transformed our understanding of Earth and its dynamic changes.
 
-2️⃣ In the Field: NDVI, SAVI, EVI Compared | https://www.linkedin.com/feed/update/urn:li:activity:7085288082001825792?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7085288082001825792%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+📰 [*Check out this paper*](https://www.sciencedirect.com/science/article/pii/S0034425722003054)
 
-3️⃣ NDVI from First Principles | https://www.linkedin.com/feed/update/urn:li:activity:7074073312250777600?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7074073312250777600%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+<summary> Google Earth Engine: A Global Analysis and Future Trends</summary>
+Are you interested in understanding the primary applications of the Google Earth Engine? 
+Would you like to know which articles are most frequently cited? 
+Which nations are at the forefront of utilizing this platform?
 
-4️⃣ Creating and Using Normalized Difference Vegetation Index (NDVI) from Satellite Imagery | https://appliedsciences.nasa.gov/join-mission/training/english/arset-creating-and-using-normalized-difference-vegetation-index-ndvi
+📰 [*Check out this paper*](https://www.mdpi.com/2072-4292/15/14/3675)
+</details>
 
-5️⃣ Monitoring Aquatic Vegetation with Remote Sensing | https://appliedsciences.nasa.gov/join-mission/training/english/arset-monitoring-aquatic-vegetation-remote-sensing
+<details>
+<summary>Materials & courses</summary>
+</details>
