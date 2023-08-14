@@ -19,6 +19,11 @@ Would you like to know which articles are most frequently cited?
 Which nations are at the forefront of utilizing this platform?
 
 📰 [*Check out this paper*](https://www.mdpi.com/2072-4292/15/14/3675)
+
+![1690799235546](https://github.com/rafaelatiengo/Tips/assets/77443417/06179c48-65da-4a84-a458-0427474bb86f)
+<div align="center" width="50px">
+<img src="![Reading (1)](![1690799235546](https://github.com/rafaelatiengo/Tips/assets/77443417/06179c48-65da-4a84-a458-0427474bb86f)" />
+</div>
 </details>
 
 <details>
