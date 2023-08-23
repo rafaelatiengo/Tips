@@ -17,7 +17,7 @@ Then, they discuss some of the major challenges of integrating GEE and AI and id
 📰 [*Check out this paper*](https://www.sciencedirect.com/science/article/pii/S0034425722003054)
 
 ![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)
-<div align="center" width="50">
+<div align="center" width="50" height="5">
 <img src="![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)" />
 </div>
 
