@@ -9,7 +9,6 @@ Then, they discuss some of the major challenges of integrating GEE and AI and id
 
 📰 [*Check out this paper*](https://www.mdpi.com/2072-4292/14/14/3253)
 
-</details>
 
 <summary>Fifty years of Landsat science and impacts</summary>
 
