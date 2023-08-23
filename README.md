@@ -16,9 +16,8 @@ Then, they discuss some of the major challenges of integrating GEE and AI and id
 
 📰 [*Check out this paper*](https://www.sciencedirect.com/science/article/pii/S0034425722003054)
 
-![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)
-<div align="center" width="50" height="5">
-<img src="![Reading (1)](https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c)" />
+<div align="center">
+<img src="https://github.com/rafaelatiengo/Tips/assets/77443417/0390d1e9-d05b-4375-a111-2dec75f8cd3c" width="700" height="700" />
 </div>
 
 <summary> Google Earth Engine: A Global Analysis and Future Trends</summary>
@@ -28,12 +27,10 @@ Which nations are at the forefront of utilizing this platform?
 
 📰 [*Check out this paper*](https://www.mdpi.com/2072-4292/15/14/3675)
 
-![1690799235546](https://github.com/rafaelatiengo/Tips/assets/77443417/06179c48-65da-4a84-a458-0427474bb86f)
-<div align="center" width="50px">
-<img src="![Reading (1)](![1690799235546](https://github.com/rafaelatiengo/Tips/assets/77443417/06179c48-65da-4a84-a458-0427474bb86f)" />
+<div align="center">
+<img src="https://github.com/rafaelatiengo/Tips/assets/77443417/06179c48-65da-4a84-a458-0427474bb86f" width="700" height="700"/>
 </div>
 </details>
-
 
 
 <details>
