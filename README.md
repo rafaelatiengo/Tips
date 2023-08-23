@@ -26,6 +26,14 @@ Which nations are at the forefront of utilizing this platform?
 </div>
 </details>
 
+<summary> Google Earth Engine and Artificial Intelligence (AI): A Comprehensive Review</summary>
+📄 In this article, the authors provided a systematic review of relevant literature to identify recent research that incorporates AI methods in GEE.
+Then, they discuss some of the major challenges of integrating GEE and AI and identify several priorities for future research.
+
+📰 [*Check out this paper*](https://www.mdpi.com/2072-4292/14/14/3253)
+
+</details>
+
 <details>
 <summary>Materials & courses</summary>
 </details>
