@@ -2,6 +2,7 @@
 
 <details>
   <summary>Recommended readings</summary>
+  
   <summary> Google Earth Engine and Artificial Intelligence (AI): A Comprehensive Review</summary>
 📄 In this article, the authors provided a systematic review of relevant literature to identify recent research that incorporates AI methods in GEE.
 Then, they discuss some of the major challenges of integrating GEE and AI and identify several priorities for future research.
