@@ -65,4 +65,31 @@ Which nations are at the forefront of utilizing this platform?
 
 <details>
 <summary>Materials & courses</summary>
+
+  <summary> 5 materials to get started with Vegetation Indices </summary>
+🌱 5 materials that will help you to study & understand Vegetation Indices through Remote Sensing🛰️
+
+1️⃣ [*EVI from First Principles*](https://www.linkedin.com/feed/update/urn:li:activity:7082367195699154944?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7082367195699154944%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+2️⃣ [*In the Field: NDVI, SAVI, EVI Compared*](https://www.linkedin.com/feed/update/urn:li:activity:7085288082001825792?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7085288082001825792%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+3️⃣ [*NDVI from First Principles*](https://www.linkedin.com/feed/update/urn:li:activity:7074073312250777600?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7074073312250777600%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+4️⃣ [*Creating and Using Normalized Difference Vegetation Index (NDVI) from Satellite Imagery*](https://appliedsciences.nasa.gov/join-mission/training/english/arset-creating-and-using-normalized-difference-vegetation-index-ndvi)
+
+5️⃣ [*Monitoring Aquatic Vegetation with Remote Sensing*](https://appliedsciences.nasa.gov/join-mission/training/english/arset-monitoring-aquatic-vegetation-remote-sensing)
+
+<summary> 5 NASA ARSET materials to get started with land cover mapping </summary>
+🗺️ 5 NASA ARSET materials for land cover mapping:
+
+1️⃣ [*Using Google Earth Engine for Land Monitoring Applications*](http://appliedsciences.nasa.gov/join-mission/training/english/arset-using-google-earth-engine-land-monitoring-applications)
+
+2️⃣ [*SAR for Landcover Applications*](http://appliedsciences.nasa.gov/join-mission/training/english/arset-sar-landcover-applications)
+
+3️⃣ [*Land Cover Classification with Satellite Imagery*](https://appliedsciences.nasa.gov/join-mission/training/english/arset-land-cover-classification-satellite-imagery)
+
+4️⃣ [*Accuracy Assessment of a Land Cover Classification*](https://appliedsciences.nasa.gov/join-mission/training/english/arset-accuracy-assessment-land-cover-classification)
+
+5️⃣ [*Change Detection for Land Cover Mapping*](https://appliedsciences.nasa.gov/join-mission/training/english/arset-change-detection-land-cover-mapping)
+
 </details>
